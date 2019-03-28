@@ -2,7 +2,7 @@
 
 To-do list:
 
-- objectives_len made up of which feats
+- which feats make up objectives_len (curr: towers, roshans, fb not: rune_pickups)
 - hyperparameter tuning
-- neural nets
+- train neural net 
 - gain an understanding of what the x,y coords entail
